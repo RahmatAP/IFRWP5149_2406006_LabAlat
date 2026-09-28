@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="92RcBlYXm7aB9fgTEiZI">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-5" edge="1" parent="1" source="iWuaMiwh_sAKSqRz88Qc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" target="iWuaMiwh_sAKSqRz88Qc-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-2" parent="1" style="ellipse;fillColor=#0050ef;html=1;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="399" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-7" edge="1" parent="1" source="iWuaMiwh_sAKSqRz88Qc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" target="iWuaMiwh_sAKSqRz88Qc-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;strokeColor=#001DBC;labelBorderColor=none;" value="&lt;font style=&quot;&quot;&gt;Buka Daftar peralatan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-11" edge="1" parent="1" source="iWuaMiwh_sAKSqRz88Qc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iWuaMiwh_sAKSqRz88Qc-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Lihat Informasi Ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuaMiwh_sAKSqRz88Qc-10" parent="1" style="ellipse;html=1;shape=endState;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="399" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
