@@ -7,3 +7,6 @@ Status  : PERTEMUAN 2 UNIFIED MODELLING LANGUAGE (UML)
 
 Tanggal : Senin, 12 Oktober 2026
 Status  : Pertemuan 3 Sistem Informasi Peminjaman dan Pengembalian PeralatanLaboratorium Kampus
+
+Tanggal : Senin, 19 Oktober 2026
+Status  : Pertemuan 4 - USE CASE DIAGRAM LANJUTAN: GENERALIZATION DANCOLLABORATION
