@@ -10,3 +10,6 @@ Status  : Pertemuan 3 Sistem Informasi Peminjaman dan Pengembalian PeralatanLabo
 
 Tanggal : Senin, 19 Oktober 2026
 Status  : Pertemuan 4 - USE CASE DIAGRAM LANJUTAN: GENERALIZATION DANCOLLABORATION
+
+Tanggal : Senin, 26 Oktober 2026
+Status  : Pertemuan 5 - SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
