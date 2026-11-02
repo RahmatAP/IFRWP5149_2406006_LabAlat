@@ -7,4 +7,4 @@ No.	ID Use Case	Nama Use Case	Fokus Pemeriksaan
 4	SIA-UC10	Kelola Data Mahasiswa	Skenario umum pengelolaan data mahasiswa.
 5	SIA-UC11	Tambah Data Mahasiswa	Generalization dan perilaku khusus penambahan data.
 6	SIA-UC12	Ubah Data Mahasiswa	Generalization dan perilaku khusus perubahan data.
-7	SIA-UC13	Hapus Data Mahasiswa	Generalization dan ketentuan penghapusan data.
+7	SIA-UC13	Hapus Data Mahasiswa	Generalization dan ketentuan penghapusan 
