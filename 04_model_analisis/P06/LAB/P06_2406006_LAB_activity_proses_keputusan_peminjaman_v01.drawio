@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="5iVCjDFJ9UYHJKulrfFo">
+    <mxGraphModel dx="1716" dy="863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IVhZsztbfOulk6YDjMuM-1" parent="1" style="swimlane;strokeColor=light-dark(#000000,#000000);" value="Petugas Laboratorium" vertex="1">
+          <mxGeometry height="1670" width="300" x="303" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-2" edge="1" parent="IVhZsztbfOulk6YDjMuM-1" source="IVhZsztbfOulk6YDjMuM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-3" parent="IVhZsztbfOulk6YDjMuM-1" style="ellipse;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="45" x="85" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-4" parent="IVhZsztbfOulk6YDjMuM-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="Membuka Daftar Pengajuan Yang Bersetatus Menunggu Keputusan" vertex="1">
+          <mxGeometry height="65" width="138.75" x="38.25" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-5" parent="IVhZsztbfOulk6YDjMuM-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="Memilih Pengajuan Dan Menetapkan Persetujuan Atau Penolakan" vertex="1">
+          <mxGeometry height="65" width="138.75" x="60" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-6" parent="1" style="swimlane;strokeColor=light-dark(#000000,#000000);" value="Sistem" vertex="1">
+          <mxGeometry height="1670" width="370" x="603" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-7" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-8" parent="IVhZsztbfOulk6YDjMuM-6" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="Menampilkan Daftar Pengajuan Yang Bersetatus Menunggu Pengajuan&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="65" width="138.75" x="70" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-9" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-10" connectable="0" parent="IVhZsztbfOulk6YDjMuM-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[Tidak Dapat Diperoses]" vertex="1">
+          <mxGeometry relative="1" x="-0.075" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-11" parent="IVhZsztbfOulk6YDjMuM-6" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="Pengajuan Dapat Diperoses?" vertex="1">
+          <mxGeometry height="110" width="103.12" x="87.82" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-12" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-13" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="565" />
+              <mxPoint x="300" y="1425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-14" parent="IVhZsztbfOulk6YDjMuM-6" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="Menampilkan Pesan Pengajuan Tidak Dapat Di Peroses" vertex="1">
+          <mxGeometry height="50" width="132.5" x="73.13" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-15" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-23">
+          <mxGeometry relative="1" x="-0.0013" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="725" />
+              <mxPoint x="270" y="970" />
+              <mxPoint x="145.2" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-16" connectable="0" parent="IVhZsztbfOulk6YDjMuM-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[Ditolak]" vertex="1">
+          <mxGeometry relative="1" x="0.2488" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-17" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-18" connectable="0" parent="IVhZsztbfOulk6YDjMuM-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[Disetujui]" vertex="1">
+          <mxGeometry relative="1" x="0.0857" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-19" parent="IVhZsztbfOulk6YDjMuM-6" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="Pengajuan Di Setujui" vertex="1">
+          <mxGeometry height="90" width="91.56" x="93.58999999999999" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-20" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-21" parent="IVhZsztbfOulk6YDjMuM-6" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="Mengubah Stus Pengajuan Menjadi Disetujui Dan Menampilkan Konfirmasi" vertex="1">
+          <mxGeometry height="65" width="163.75" x="57.51" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-22" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-23" parent="IVhZsztbfOulk6YDjMuM-6" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="Mengubah Stus Pengajuan Menjadi Ditolak Dan Melakukan Konfirmasin Penolakan" vertex="1">
+          <mxGeometry height="65" width="163.75" x="63.279999999999994" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-24" edge="1" parent="IVhZsztbfOulk6YDjMuM-6" source="IVhZsztbfOulk6YDjMuM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-25" parent="IVhZsztbfOulk6YDjMuM-6" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="105.16" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-26" parent="IVhZsztbfOulk6YDjMuM-6" style="ellipse;html=1;shape=endState;strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="50" width="55.16" x="117.58" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-27" edge="1" parent="1" source="IVhZsztbfOulk6YDjMuM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-28" edge="1" parent="1" source="IVhZsztbfOulk6YDjMuM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-29" connectable="0" parent="IVhZsztbfOulk6YDjMuM-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[Dapat Diperoses]" vertex="1">
+          <mxGeometry relative="1" x="-0.1065" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IVhZsztbfOulk6YDjMuM-30" edge="1" parent="1" source="IVhZsztbfOulk6YDjMuM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="IVhZsztbfOulk6YDjMuM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

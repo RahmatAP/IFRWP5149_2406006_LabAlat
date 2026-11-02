@@ -1,46 +1,4 @@
-<mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Page-1" id="a3ggQbNbbEXvNWA-m9M2">
-    <mxGraphModel dx="2002" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Mahasiswa" vertex="1">
-          <mxGeometry height="1644" width="237" x="104" y="67" as="geometry" />
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-11" edge="1" parent="ljGEOeJ8gX3ndSol3tAz-8" source="ljGEOeJ8gX3ndSol3tAz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="154" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-13" edge="1" parent="ljGEOeJ8gX3ndSol3tAz-8" source="ljGEOeJ8gX3ndSol3tAz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="126.5" y="139" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-9" parent="ljGEOeJ8gX3ndSol3tAz-8" style="ellipse;html=1;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="85" y="59" as="geometry" />
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="Sistem" vertex="1">
-          <mxGeometry height="1644" width="248" x="341" y="67" as="geometry" />
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-15" edge="1" parent="ljGEOeJ8gX3ndSol3tAz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="89" as="sourcePoint" />
-            <mxPoint x="100" y="154" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-24" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);startSize=23;" value="Petugas Laboratorium" vertex="1">
-          <mxGeometry height="1644" width="248" x="589" y="67" as="geometry" />
-        </mxCell>
-        <mxCell id="ljGEOeJ8gX3ndSol3tAz-25" edge="1" parent="ljGEOeJ8gX3ndSol3tAz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="89" as="sourcePoint" />
-            <mxPoint x="100" y="154" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net">
   <diagram name="lihat ketersediaan" id="Id1IdmHRV_TbjVOIj8EY">
     <mxGraphModel dx="3336" dy="1678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>

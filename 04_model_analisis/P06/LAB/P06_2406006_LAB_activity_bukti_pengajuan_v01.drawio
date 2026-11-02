@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="j4E0USNWh6j2TSrAjIGm">
+    <mxGraphModel dx="1668" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-23" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Mahasiswa" vertex="1">
+          <mxGeometry height="1060" width="280" x="130" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-24" parent="FNM5B_a76MBBr_lDyjr5-23" style="ellipse;fillColor=strokeColor;html=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-25" parent="FNM5B_a76MBBr_lDyjr5-23" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="Mengonfirmasi pencetakan" vertex="1">
+          <mxGeometry height="60" width="210" x="35" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Sistem" vertex="1">
+          <mxGeometry height="1060" width="380" x="410" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-27" edge="1" parent="FNM5B_a76MBBr_lDyjr5-26" source="FNM5B_a76MBBr_lDyjr5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-28" connectable="0" parent="FNM5B_a76MBBr_lDyjr5-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[ya, memilih cetak]" vertex="1">
+          <mxGeometry relative="1" x="-0.1822" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-29" edge="1" parent="FNM5B_a76MBBr_lDyjr5-26" source="FNM5B_a76MBBr_lDyjr5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-36">
+          <mxGeometry relative="1" x="0.2642" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="160" />
+              <mxPoint x="330" y="390" />
+              <mxPoint x="170" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-30" connectable="0" parent="FNM5B_a76MBBr_lDyjr5-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[tidak]" vertex="1">
+          <mxGeometry relative="1" x="0.3872" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-31" parent="FNM5B_a76MBBr_lDyjr5-26" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;div&gt;Mahasiswa memilih cetak bukti?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="100" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-32" parent="FNM5B_a76MBBr_lDyjr5-26" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#008a00;strokeColor=light-dark(#000000,#000000);fontColor=#ffffff;" value="Menampilkan bukti pengajuan dengan nomor pengajuan dan status menunggu Keputusan" vertex="1">
+          <mxGeometry height="60" width="240" x="50" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-33" edge="1" parent="FNM5B_a76MBBr_lDyjr5-26" source="FNM5B_a76MBBr_lDyjr5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-34" parent="FNM5B_a76MBBr_lDyjr5-26" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="Mencetak bukti pengajuan" vertex="1">
+          <mxGeometry height="60" width="210" x="65" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-35" edge="1" parent="FNM5B_a76MBBr_lDyjr5-26" source="FNM5B_a76MBBr_lDyjr5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-36" parent="FNM5B_a76MBBr_lDyjr5-26" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#D80073,#FF3399);strokeColor=#A50040;fontColor=#ffffff;" value="Menutup Konfirmasi tanpa mencetak&lt;div&gt;bukti dan pengajuan tetap tersimpan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="65" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-37" edge="1" parent="FNM5B_a76MBBr_lDyjr5-26" source="FNM5B_a76MBBr_lDyjr5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-38" parent="FNM5B_a76MBBr_lDyjr5-26" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="130" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-39" parent="FNM5B_a76MBBr_lDyjr5-26" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="155" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-40" edge="1" parent="1" source="FNM5B_a76MBBr_lDyjr5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-41" edge="1" parent="1" source="FNM5B_a76MBBr_lDyjr5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FNM5B_a76MBBr_lDyjr5-42" edge="1" parent="1" source="FNM5B_a76MBBr_lDyjr5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="FNM5B_a76MBBr_lDyjr5-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="zlhGTiyprdkER-qCAajj">
+    <mxGraphModel dx="1848" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Mahasiswa" vertex="1">
+          <mxGeometry height="1040" width="310" x="321" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-2" edge="1" parent="MXxMNNTEZizFBrJJX4FP-1" source="MXxMNNTEZizFBrJJX4FP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-3" parent="MXxMNNTEZizFBrJJX4FP-1" style="ellipse;fillColor=strokeColor;html=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-4" parent="MXxMNNTEZizFBrJJX4FP-1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="Membuka fungsi Lihat laporan&lt;div&gt;Peminjaman&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="30" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Sistem" vertex="1">
+          <mxGeometry height="1040" width="390" x="631" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-6" edge="1" parent="MXxMNNTEZizFBrJJX4FP-5" source="MXxMNNTEZizFBrJJX4FP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-7" edge="1" parent="MXxMNNTEZizFBrJJX4FP-5" source="MXxMNNTEZizFBrJJX4FP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="475" />
+              <mxPoint x="340" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-8" connectable="0" parent="MXxMNNTEZizFBrJJX4FP-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="[ada]" vertex="1">
+          <mxGeometry relative="1" x="0.0062" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-9" parent="MXxMNNTEZizFBrJJX4FP-5" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="Ada data peminjaman?" vertex="1">
+          <mxGeometry height="90" width="120" x="95" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-10" edge="1" parent="MXxMNNTEZizFBrJJX4FP-5" source="MXxMNNTEZizFBrJJX4FP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-11" parent="MXxMNNTEZizFBrJJX4FP-5" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="115" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-12" parent="MXxMNNTEZizFBrJJX4FP-5" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="140" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-13" edge="1" parent="MXxMNNTEZizFBrJJX4FP-5" source="MXxMNNTEZizFBrJJX4FP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-14" parent="MXxMNNTEZizFBrJJX4FP-5" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="Menampilkan pesan tidak ada data&lt;div&gt;peminjaman pada periode tersebut&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="210" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-15" parent="MXxMNNTEZizFBrJJX4FP-5" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="Menampilkan daftar Periode laporan" vertex="1">
+          <mxGeometry height="40" width="220" x="10" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-16" edge="1" parent="MXxMNNTEZizFBrJJX4FP-5" source="MXxMNNTEZizFBrJJX4FP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-17" parent="MXxMNNTEZizFBrJJX4FP-5" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="Menampilkan laporan peminjaman&amp;nbsp;&lt;div&gt;periode yang dipilih&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="30" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-18" edge="1" parent="1" source="MXxMNNTEZizFBrJJX4FP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-19" edge="1" parent="1" source="MXxMNNTEZizFBrJJX4FP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-20" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="Memilih periode laporan" vertex="1">
+          <mxGeometry height="40" width="180" x="361" y="429" as="geometry" />
+        </mxCell>
+        <mxCell id="MXxMNNTEZizFBrJJX4FP-21" edge="1" parent="1" source="MXxMNNTEZizFBrJJX4FP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" target="MXxMNNTEZizFBrJJX4FP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
