@@ -13,3 +13,9 @@ Status  : Pertemuan 4 - USE CASE DIAGRAM LANJUTAN: GENERALIZATION DANCOLLABORATI
 
 Tanggal : Senin, 26 Oktober 2026
 Status  : Pertemuan 5 - SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
+
+Tanggal : Senin, 2 November 2026
+Status  : Pertemuan 6 - 
+
+Tanggal : Senin, 9 Oktober 2026
+Status  : Pertemuan 7
